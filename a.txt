@@ -1,4 +1,7 @@
 Hello
+Hi
+bye
 Welcome
 Format
+
 
