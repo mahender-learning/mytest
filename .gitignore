@@ -1,0 +1,37 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+*.out
+
+# IDE settings and metadata
+/.idea/
+/.vscode/
+/*.iml
+
+# Gradle files
+.gradle
+/build/
+!gradle/wrapper/gradle-wrapper.jar  # Keep the Gradle wrapper
+
+# Maven files
+.mvn/
+target/
+
+# JAR/WAR files
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA / Eclipse specific files
+/.classpath
+/.project
+/.settings/
+/bin/
+/out/
+
+# Generated files
+/.DS_Store
+/.env
+/node_modules/
